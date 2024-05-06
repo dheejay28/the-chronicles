@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int x = 50;
+	if (X > 55)
+		cout <<"Good Morning!\n";
+	else if(x > 55)
+		cout<<"Good Afternoon!\n";
+	else
+		cout <<"Good Evening!\n";
+	return 0;
+}
+ 
